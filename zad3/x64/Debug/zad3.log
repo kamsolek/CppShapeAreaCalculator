@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\kamoc\Desktop\prog_zad_5\zad3\main.cpp(16,36): warning C4305: "argument": obcięcie z "double" do "float"
-C:\Users\kamoc\Desktop\prog_zad_5\zad3\main.cpp(16,31): warning C4305: "argument": obcięcie z "double" do "float"
-C:\Users\kamoc\Desktop\prog_zad_5\zad3\main.cpp(17,26): warning C4305: "argument": obcięcie z "double" do "float"
-C:\Users\kamoc\Desktop\prog_zad_5\zad3\main.cpp(18,31): warning C4305: "argument": obcięcie z "double" do "float"
-  zad3.vcxproj -> C:\Users\kamoc\Desktop\prog_zad_5\zad3\x64\Debug\zad3.exe
