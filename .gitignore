@@ -1,0 +1,61 @@
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# C++ Unit Test Adapter
+.vs/
+TestResults
+*.vcxproj.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.filters
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+cmake_install.cmake
+Testing/
+CTestTestfile.cmake
+Makefile
+
+# Następujące pliki projektu
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.ncb
+*.log
+*.tlog
+*.lastbuildstate
+*.sdf
+*.opensdf
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Inne pliki systemowe i pliki tymczasowe
+*.tmp
+*.log
+*.mdf
+*.ldf
+*.DS_Store
+Thumbs.db
